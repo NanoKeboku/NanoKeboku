@@ -1,6 +1,6 @@
 🌟 **Hello, World!** 🌟  
 
-👨‍💻 Mahasiswa semester 6 S1 Teknologi Informasi yang passionate di dunia **Front-End Development**. Menguasai 🔧 **HTML, CSS, JavaScript, JQuery, Bootstrap CSS**, hingga **API integration** dan **Git**. 
+👨‍💻 Mahasiswa semester 6 S1 Teknologi Informasi yang passionate di dunia **Front-End Development**. Menguasai 🔧 **HTML, CSS, JavaScript, JQuery, Bootstrap CSS**, dan **Git**. 
 
 🎨 Hobi crafting desain keren dengan **Figma** untuk menciptakan pengalaman UI/UX yang luar biasa. 💡 Problem solver dengan teamwork 🤝 dan komunikasi ✨ efektif.  
 
